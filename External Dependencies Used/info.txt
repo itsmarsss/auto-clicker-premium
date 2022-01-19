@@ -1,0 +1,2 @@
+JNativeHook is used to detect mouse and key input, this is a key part in making this program work.
+  https://github.com/kwhat/jnativehook
