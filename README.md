@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/assets/icon.png" alt="Icon" width="100" height="100" </img>
+<img src="/assets/mouse.png" alt="Icon" width="100" height="100" </img>
 <br>
 Auto Clicker "Premium"
 <br>
@@ -36,13 +36,13 @@ If you are not on a Windows machine, you will need to install the latest version
 
 ## Images
 <h1 align="center">
-<img src="/assets/image0.png" alt="Icon" width="100" height="100" </img>
+<img src="/assets/image0.png" alt="Icon" </img>
 </h1>
 <h1 align="center">
-<img src="/assets/image1.png" alt="Icon" width="100" height="100" </img>
+<img src="/assets/image1.png" alt="Icon" </img>
 </h1>
 <h1 align="center">
-<img src="/assets/image2.png" alt="Icon" width="100" height="100" </img>
+<img src="/assets/image2.png" alt="Icon" </img>
 </h1>
 
 ## Video Demonstration/Creation process
