@@ -20,19 +20,19 @@ If you are not on a Windows machine, you will need to install the latest version
 
 ## Features
 - Big `ON` and `OFF` button to toggle the program
-- Toggle button can be toggle by pressing any mouse botton *other than* left-click and right-click
+- Toggle button can be toggled by pressing any mouse button *other than* left-click and right-click
 - Slider that goes up to 100 cps *(or 1000 cps if you find the easter egg)*
 - CPS is shown in the window's name
 - Window will always try to be on top of other windows
 - Clicking happens after you click *(so you have full control over when to click and when not to)*
 - Has a 3 cps range with your selected cps in the middle *(e.g. You choose 10 cps, the program will click 7 to 13 cps for realism)*
-- Cool looking UI(?)
+- Cool-looking UI(?)
 
 ## Upcoming Features
-- Customizable window colors
+- Customizable window colours
 - CPS counter
 - Safe customizable kill switch
-- Changable click key
+- Changeable click key
 
 ## Images
 <h1 align="center">
