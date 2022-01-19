@@ -9,7 +9,7 @@ Auto Clicker "Premium"
  Auto Clicker "Premium" is a "Premium" auto clicker that you can use to destroy people in Minecraft PvP (1.8.x). It's job is to click `x` amount of times for a second after you tell it to by left clicking.
 
 **Why would you want Auto Clicker "Premium"?** -
-You *want* Auto Clicker "Premium" because I know you are bad at Minecraft PvP, it will help you destroy enemies assuming you are with with movement and gamesense (make sure you **dont** get banned). This auto clicker can also be used on other games that require constant cilcking, like Cookie Clicker.
+You *want* Auto Clicker "Premium" because I know you are bad at Minecraft PvP, it will help you destroy enemies assuming you are with with movement and gamesense (make sure you **dont** get banned). This auto clicker can also be used on other games that require clicking, like Cookie Clicker.
 
 **How to download?**
 Head over to [[Releases]](https://github.com/itsmarsss/AutoClickerPremium/releases) and download the latest version! 
