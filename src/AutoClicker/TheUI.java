@@ -32,6 +32,8 @@ import org.jnativehook.keyboard.NativeKeyListener;
 import org.jnativehook.mouse.NativeMouseEvent;
 import org.jnativehook.mouse.NativeMouseListener;
 
+
+
 public class TheUI implements NativeMouseListener, NativeKeyListener {
 	public static void main(String[] args) throws NativeHookException, ClassNotFoundException, InstantiationException, IllegalAccessException, UnsupportedLookAndFeelException, AWTException {
 		TheUI GUI = new TheUI();
@@ -41,6 +43,8 @@ public class TheUI implements NativeMouseListener, NativeKeyListener {
 		GlobalScreen.registerNativeHook();
 		GlobalScreen.addNativeMouseListener(GUI);
 		GlobalScreen.addNativeKeyListener(GUI);
+
+		System.out.println(GlobalScreen.isNativeHookRegistered());
 	}
 	private final ImageIcon icon = new ImageIcon(getClass().getClassLoader().getResource("Resources/icon.png"));
 	private Robot rb;
@@ -208,7 +212,7 @@ public class TheUI implements NativeMouseListener, NativeKeyListener {
 		int max = aimCPS + range;
 		Random rnd = new Random();
 		int numberOfClicks = rnd.nextInt(max-min)+min;
-		int wait = 1000/min;
+		int wait = 1000/max;
 		GlobalScreen.unregisterNativeHook();
 		for(int i = 0; i < numberOfClicks; i++) {
 			if(isEnabled) {
@@ -221,6 +225,14 @@ public class TheUI implements NativeMouseListener, NativeKeyListener {
 			}
 		}
 		GlobalScreen.registerNativeHook();
+		dipShit();
+	}
+
+	private void dipShit() throws NativeHookException {
+		while(!GlobalScreen.isNativeHookRegistered()) {
+			GlobalScreen.registerNativeHook();
+			System.out.println("Fuck you");
+		}
 	}
 
 	@Override
