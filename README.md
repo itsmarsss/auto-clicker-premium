@@ -5,6 +5,9 @@ Auto Clicker "Premium"
 <br>
 </h1>
 
+## NOTICE
+> :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
+
 **What is Auto Clicker "Premium"?** -
  Auto Clicker "Premium" is a "Premium" auto clicker that you can use to destroy people in Minecraft PvP (1.8.x). It's job is to click `x` amount of times for a second after you tell it to by left clicking.
 
@@ -28,22 +31,23 @@ If you are not on a Windows machine, you will need to install the latest version
 - Has a 3 cps range with your selected cps in the middle *(e.g. You choose 10 cps, the program will click 7 to 13 cps for realism)*
 - Cool-looking UI(?)
 
-## Upcoming Features
-- Customizable window colours
-- CPS counter
-- Safe customizable kill switch
-- Changeable click key
+## Video Demonstration/Creation process
+[![Image Link](https://raw.githubusercontent.com/itsmarsss/Auto-Clicker-Premium/main/assets/thumbnail.jpg)](https://www.youtube.com/watch?v=barpZfS7Q-Q)
 
 ## Images
-<h1 align="center">
-<img src="/assets/image0.png" alt="Icon" </img>
-</h1>
-<h1 align="center">
-<img src="/assets/image1.png" alt="Icon" </img>
-</h1>
-<h1 align="center">
-<img src="/assets/image2.png" alt="Icon" </img>
-</h1>
 
-## Video Demonstration/Creation process
-*In the process of making*
+<table align="center">
+  <tr>
+     <td>Normal</td>
+     <td>Insane</td>
+     <td>Insane ON</td>
+  </tr>
+  <tr>
+    <td><img src="assets/image0.png"></td>
+    <td><img src="assets/image1.png"></td>
+    <td><img src="assets/image2.png"></td>
+  </tr>
+ </table>
+
+### NOTICE
+> :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
