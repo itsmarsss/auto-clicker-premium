@@ -32,6 +32,8 @@ If you are not on a Windows machine, you will need to install the latest version
 - Cool-looking UI(?)
 
 ## Video Demonstration/Creation process
+<p align="center">Making of the program: https://www.youtube.com/watch?v=barpZfS7Q-Q</p>
+
 [![Image Link](https://img.youtube.com/vi/barpZfS7Q-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=barpZfS7Q-Q)
 
 ## Images
